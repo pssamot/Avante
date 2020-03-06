@@ -3,7 +3,9 @@
 Designed API to run in raspberry PI and comunicate with frontend application.
 
 Features:
-* Rest API
- * qwe
+ * Bullet list
+  * Nested bullet
+      * Sub-nested bullet etc
+
 * HTML scrapper to fill the database
 * 
