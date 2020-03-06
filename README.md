@@ -1,6 +1,6 @@
 # Avante
 
-Designed API to run in raspberry PI and comunicate with frontend application.
+Designed API to run in raspberry PI and comunicate with frontend application FootMarket.
 
 
 Features:
